@@ -4,4 +4,4 @@
 <a href="https://github.com/ArpitMallah09/project_flightweb/edit/" target="_blank"><strong>➥ Live Demo</strong></a>
 </div> <br/><br/>
 <b>Screenshots:</b> <br/><br/>
-<img src=""></img>
+
