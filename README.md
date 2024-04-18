@@ -4,4 +4,6 @@
 <a href="https://github.com/ArpitMallah09/project_flightweb/edit/" target="_blank"><strong>➥ Live Demo</strong></a>
 </div> <br/><br/>
 <b>Screenshots:</b> <br/><br/>
+[Download Word File](https://github.com/ArpitMallah09/project_flightweb/blob/main/FirstFlight.docx)
+
 
