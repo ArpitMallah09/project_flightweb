@@ -1,3 +1,4 @@
+![Screenshot (24)](https://github.com/ArpitMallah09/project_flightweb/assets/148791181/16f66546-c78d-4af8-9903-4e229f776e78)
 <h2 align="center">Firstflight Website</h2>
 <div align="center">
 <p>A travel website project deployed on Azure Web App .</p>
